@@ -1,0 +1,42 @@
+titans-drive/
+│
+├── admin/
+│   ├── dashboard.php			d
+│   ├── login.php				d
+│   ├── manage_cars.php		d
+│   ├── manage_bookings.php	d
+│   ├── manage_users.php		d
+│   ├── manage_documents.php	d
+│   ├── verify_document.php	d
+│   └── logout.php				d
+│
+├── api/
+│   └── get_featured_cars.php	d
+│
+├── css/
+│   └── style.css			d
+│
+├── js/
+│   └── main.js			d
+│
+├── includes/
+│   ├── navbar.php			d
+│   └── footer.php			d
+│
+├── uploads/
+│   ├── documents/
+│   └── cars/
+│
+├── config.php				d
+├── index.php				d
+├── login.php				d
+├── signup.php				d
+├── cars.php				d
+├── car_details.php			d
+├── dashboard.php			d
+├── profile.php				d
+├── upload_documents.php	d
+├── booking_details.php		d
+├── about.php				d
+├── contact.php				d
+└── logout.php				d
